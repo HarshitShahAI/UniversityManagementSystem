@@ -56,14 +56,3 @@ Follow these instructions to get a copy of the project up and running on your lo
     -   Locate the `Project.java` file in the `src/University` package.
     -   Compile and run `Project.java` to launch the application's main dashboard.
 
-## Contributing
-
-Contributions are welcome! If you have suggestions to improve the project, please feel free to fork the repository and create a pull request.
-
-1.  Fork the Project
-2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4.  Push to the Branch (`git push origin feature/AmazingFeature`)
-5.  Open a Pull Request
-
----
